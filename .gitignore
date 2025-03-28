@@ -63,4 +63,9 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-.hypothesis/ 
+.hypothesis/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride 
